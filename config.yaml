@@ -1,0 +1,10 @@
+---
+log_options:
+  level: info
+  format: fmt
+code_path: . 
+generate:
+  - title: toto
+    sub_folders:
+      - title: tata
+      - title: titi
